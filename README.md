@@ -1,2 +1,2 @@
 # bottle-ide has been deployed:
-[Python Anywhere](bit.ly/bottleide)
+[Python Anywhere](https://bit.ly/bottleide)
