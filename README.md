@@ -1,2 +1,2 @@
 # bottle-ide has been deployed:
-******bit.ly/bottleide
+bit.ly/bottleide
